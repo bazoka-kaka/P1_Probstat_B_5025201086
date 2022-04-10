@@ -24,4 +24,5 @@ ans = 1 / prob
 ans
 
 # varian
-1 - prob / prob ^ 2
+var = 1 - prob / prob ^ 2
+var
